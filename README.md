@@ -1,16 +1,16 @@
 # OLA-Dashboard Project
-##🚖 Ola Insights: Ride Cancellations & Customer Behavior Dashboard
+## 🚖 Ola Insights: Ride Cancellations & Customer Behavior Dashboard
 A comprehensive, interactive Power BI dashboard analyzing ride trends, cancellation patterns, and service quality on the Ola platform—featuring time-based ride volume, cancellation reasons, vehicle performance, customer & driver ratings, and top revenue contributors.
 
 The Ola Insights Dashboard is a visually rich Power BI report designed to explore ride booking trends, cancellation reasons, and service quality on the Ola platform. It helps stakeholders analyze customer and driver behavior, identify operational issues, and make data-driven decisions to improve ride experience, reduce cancellations, and optimize revenue.
 
-##Tech Stack
--• 📊 **Power BI Desktop** – Main data visualization platform used for report creation.
--• 📂 **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.
--• 🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.
--• 📁 **File Format** – .pbix for development and .png for dashboard previews.
+### Tech Stack
+•        📊 **Power BI Desktop** – Main data visualization platform used for report creation.<br>
+•        📂 **Power Query** – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•        🧠 **DAX (Data Analysis Expressions)** – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•        📁 **File Format** – .pbix for development and .png for dashboard previews.<br>
 
-##Data Source:
+### Data Source:
 The dataset was synthetically generated using ChatGPT based on realistic Ola ride scenarios and business operations. It includes structured data on ride bookings, vehicle types, customer and driver ratings, ride statuses, payment methods, and cancellation reasons. While the data is not from Ola’s official database, it closely simulates real-world ride-hailing metrics for the purpose of analytical learning and dashboard development.
 
 ##Business Problem:
