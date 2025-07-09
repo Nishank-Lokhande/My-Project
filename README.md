@@ -13,20 +13,20 @@ The Ola Insights Dashboard is a visually rich Power BI report designed to explor
 ### Data Source:
 The dataset was synthetically generated using ChatGPT based on realistic Ola ride scenarios and business operations. It includes structured data on ride bookings, vehicle types, customer and driver ratings, ride statuses, payment methods, and cancellation reasons. While the data is not from Ola’s official database, it closely simulates real-world ride-hailing metrics for the purpose of analytical learning and dashboard development.
 
-##Business Problem:
+### Business Problem:
 Ola faced a high rate of ride cancellations and inconsistent service experiences, leading to customer dissatisfaction and revenue loss. Understanding the root causes of cancellations and user behavior was essential for improving service quality.
 
-##Goal of the Dashboard:
+### Goal of the Dashboard:
 To identify key trends behind ride cancellations, analyze booking patterns, evaluate customer and driver ratings, and uncover operational insights that can support strategic decisions.
 
-##Walkthrough of Key Visuals:
--• Ride Volume Over Time reveals booking trends and peak usage periods.
--• Booking Status Breakdown highlights completed vs. cancelled rides.
--• Cancelled Ride Reasons pinpoints the most common causes behind cancellations.
--• Top 5 Vehicle Types by Ride Distance showcases popular vehicle categories.
--• Customer & Driver Rating Distributions help assess service satisfaction.
--• Revenue by Payment Method shows preferred payment channels and profitability.
--• Top 5 Customers by Booking Value identifies key high-value users.
+### Walkthrough of Key Visuals:
+•        Ride Volume Over Time reveals booking trends and peak usage periods.<br>
+•        Booking Status Breakdown highlights completed vs. cancelled rides.<br>
+•        Cancelled Ride Reasons pinpoints the most common causes behind cancellations.<br>
+•        Top 5 Vehicle Types by Ride Distance showcases popular vehicle categories.<br>
+•        Customer & Driver Rating Distributions help assess service satisfaction.<br>
+•        Revenue by Payment Method shows preferred payment channels and profitability.<br>
+•        Top 5 Customers by Booking Value identifies key high-value users.<br>
 
-##Business Impact & Insights:
+### Business Impact & Insights:
 The dashboard provides data-driven insights to reduce cancellation rates, enhance customer satisfaction, and improve driver performance. It also supports marketing and retention strategies by identifying top customers and preferred ride/payment patterns.
