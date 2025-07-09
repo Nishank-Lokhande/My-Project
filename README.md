@@ -1,5 +1,5 @@
 # OLA-Dashboard Project
-#🚖 Ola Insights: Ride Cancellations & Customer Behavior Dashboard
+##🚖 Ola Insights: Ride Cancellations & Customer Behavior Dashboard
 A comprehensive, interactive Power BI dashboard analyzing ride trends, cancellation patterns, and service quality on the Ola platform—featuring time-based ride volume, cancellation reasons, vehicle performance, customer & driver ratings, and top revenue contributors.
 
 The Ola Insights Dashboard is a visually rich Power BI report designed to explore ride booking trends, cancellation reasons, and service quality on the Ola platform. It helps stakeholders analyze customer and driver behavior, identify operational issues, and make data-driven decisions to improve ride experience, reduce cancellations, and optimize revenue.
